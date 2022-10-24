@@ -11,29 +11,11 @@ date: 2020-01-29
 <img src="/assets/images/about/photo-portada.jpeg">
 </p>
 
-Mi nombre es Marcelo Vázquez (aka **s4vitar**), actualmente trabajo como Streamer en **Twitch** y como creador de contenido en diversas plataformas.
-
-Estas son las certificaciones que actualmente dispongo:
-
-- OSCP (Offensive Security Certified Professional)
-- OSWP (Offensive Security Wireless Professional)
-- eWPTxv2 (Web Penetration Tester eXtreme)
-- CPHE (Certificado Profesional de Hacking Ético)
-- CHEE (Certificado de Hacking Ético Experto)
-- eJPT (eLearnSecurity Junior Penetration Tester)
-- eCPPTv2 (eLearnSecurity Professional Penetration Tester)
-
 <p align="center">
 <img src="/assets/images/about/certs.jpeg">
 </p>
 
 ## Material de apoyo
-Estos son los gists que he redactado como material de apoyo para aquellos que se quieran certificar del OSCP/OSWP, así como otras temáticas:
-
-- [Preparación OSCP](https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e)
-- [Preparación OSWP](https://gist.github.com/s4vitar/3b42532d7d78bafc824fb28a95c8a5eb)
-- [Cómo construir tu propio sistema Linux](https://gist.github.com/s4vitar/8a2b18ec1f1b16226e21d4b89cbef270)
-
 
 ## CVEs
 Estos son los CVE's que hasta la fecha de hoy tengo registrados:
