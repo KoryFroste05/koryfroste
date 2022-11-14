@@ -108,25 +108,18 @@ author:
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
-  dribbble         :
-  flickr           :
   facebook         :
-  foursquare       :
   github           : "AlexFroste05"
   gitlab           :
   keybase          :
   instagram        : "Alex.Froste_05"
-  lastfm           :
   linkedin         : "Vacio" # (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        : "Vacio"
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
   twitter          : "https://bit.ly/nasdermc05-tw"
   vine             :
-  weibo            :
-  xing             :
   youtube          : "https://bit.ly/nasdermc05-yt"
 
 
